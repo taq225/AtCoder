@@ -21,4 +21,5 @@ for s in string:
     if s == 'F':
 
     else:
-        
+
+# TODO
